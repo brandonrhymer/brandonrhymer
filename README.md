@@ -6,4 +6,4 @@ My background spans enterprise virtualization, infrastructure troubleshooting, a
 
 Here you’ll find tools and experiments that apply those priorities to monitoring and infrastructure automation. I’m also expanding my Python skills through these projects.
 
-**Featured project:** [NetMon Lite](https://github.com/brandonrhymer/NetMon-Public), a focused Windows reachability monitor. I defined the scope and directed AI-assisted development; AI generated most of the code.
+**Featured project:** [NetMon Lite](https://github.com/brandonrhymer/NetMon-Public), a focused Windows reachability monitor. I defined the scope and directed AI-assisted development; Codex + LifeOS on a Windows desktop generated most of the code. This lite version of One of my production works is a challenge to see what I can accomplish with proper handling of an LLM.
