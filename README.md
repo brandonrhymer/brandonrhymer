@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @brandonrhymer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I’m Brandon
 
-<!---
-brandonrhymer/brandonrhymer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m an infrastructure professional and technical lead focused on reliable systems, practical automation, and effective operations.
+
+My background spans enterprise virtualization, infrastructure troubleshooting, and leading teams through technical and operational challenges. I bring that perspective to my projects: understand the operational need, question unnecessary complexity, and make the result easier to support.
+
+Here you’ll find tools and experiments that apply those priorities to monitoring and infrastructure automation. I’m also expanding my Python skills through these projects.
+
+**Featured project:** [NetMon Lite](https://github.com/brandonrhymer/NetMon-Public), a focused Windows reachability monitor. I defined the scope and directed AI-assisted development; AI generated most of the code.
